@@ -33,7 +33,7 @@ def partition(arr, low, high):
 			return j
 
 		arr[i], arr[j] = arr[j], arr[i]
-
+#code from geeksforgeeks.com
 
 ''' The main function that implements QuickSort 
 arr --> Array to be sorted, 
