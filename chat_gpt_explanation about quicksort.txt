@@ -1,0 +1,6 @@
+ Quick Sort, leveraging the Hoare Partition Scheme, is a renowned sorting algorithm designed to efficiently rearrange elements within a list or an array.
+ The problem it tackles is sorting a collection of elements in ascending or descending order. By dividing the array into smaller partitions, Quick Sort 
+strategically places elements in their correct positions. This method of 'divide and conquer' allows for quicker sorting, making it an efficient choice for 
+large datasets. The Hoare Partition Scheme specifically focuses on choosing a pivot element and rearranging the elements around it, optimizing the sorting process.
+ In this introduction, we'll delve into the intricacies of Quick Sort utilizing the Hoare Partition Scheme, exploring its methodology and efficiency in solving the 
+sorting problem.
